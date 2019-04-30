@@ -1342,7 +1342,7 @@ img{
 ***/
 
 .main-slider{
-	position: center;	
+	position: relative;	
 	z-index:10;
 }
 
