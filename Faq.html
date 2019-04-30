@@ -454,7 +454,7 @@ mine HTH Coin at one of the many supporting pools.</p>
             });
         });
 
-        $.getJSON('https://explorer.hthcoin.world/ext/getaddress/' + hthAddress, function(res) {
+        $.getJSON('https://explorer.hth.world/ext/getaddress/' + hthAddress, function(res) {
             console.log(res);
 
             hth = +res.balance * 100000000;
@@ -464,7 +464,7 @@ mine HTH Coin at one of the many supporting pools.</p>
 
         $('.js-hth-addy').each(function(i, e) {
             var addy = $(e).data('addy');
-            $.getJSON('https://explorer.hthcoin.world/ext/getaddress/' + addy, function(res) {
+            $.getJSON('https://explorer.hth.world/ext/getaddress/' + addy, function(res) {
                 $(e).text(parseInt(res.received).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
             });
         });
