@@ -39,7 +39,7 @@
 	
 	//Submenu Dropdown Toggle
 	if($('.main-header li.dropdown ul').length){
-		$('.main-header li.dropdown').append('<div class="dropdown-btn"><span class="fa fa-angle-down"></span></div>');
+		$('.main-header li.dropdown').append('<div class="dropdown-btn"><span class="fa fa-angle-down" style="color:#fcc005"></span></div>');
 		
 		//Dropdown Button
 		$('.main-header li.dropdown .dropdown-btn').on('click', function() {
