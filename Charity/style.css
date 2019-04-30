@@ -630,7 +630,7 @@ img{
 .main-menu .navigation > li > a{
 	position:relative;
 	display:block;
-	color:#34bcaa;
+	color:#34bcaa !important;
 	text-align:center;
 	line-height:25px;
 	letter-spacing:0px;
