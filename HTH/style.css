@@ -1344,6 +1344,7 @@ img{
 .main-slider{
 	position: relative;	
 	z-index:10;
+	background-image: url("images/main-slider/adult-crisis.jpg");
 }
 
 .main-slider .tp-caption{
