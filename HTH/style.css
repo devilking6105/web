@@ -1344,7 +1344,7 @@ img{
 .main-slider{
 	position: relative;	
 	z-index:10;
-	background-image:url(../images/icons/adult-crisis.jpg);
+	
 }
 
 .main-slider .tp-caption{
@@ -1356,6 +1356,7 @@ img{
 }
 
 .main-slider h4{	
+	background-image:url(../images/icons/adult-crisis.jpg);
 	font-size:14px;
 	line-height:1.2em;
 	color: #ffffff;
