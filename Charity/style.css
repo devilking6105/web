@@ -1092,8 +1092,8 @@ img{
 .main-header .sticky-header .main-menu .navigation > li.current > a,
 .main-header .sticky-header .main-menu .navigation > li.current-menu-item > a{
 	opacity:1;
-	background-color :#fcc005;
-	color: #ffffff;
+	background-color: transparent;
+	color: #debf12;
 
 }
 
