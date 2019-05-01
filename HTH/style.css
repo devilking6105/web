@@ -5407,12 +5407,12 @@ img{
 	position: relative;
 	font-size: 14px;
 	line-height: 30px;
-	color: #888888;
+	color: #debf12;
 	font-weight: 400;
 }
 
 .main-footer .footer-links li a{
-	color: #888888;
+	color: #debf12;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -5435,7 +5435,7 @@ img{
 .main-footer .text p{
 	font-size: 14px;
 	line-height: 24px;
-	color: #888888;
+	color: #34bcaa;
 }
 
 .footer-bottom{
