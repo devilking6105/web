@@ -1638,7 +1638,7 @@ img{
 	font-size:50px;
 	line-height: 1.2em;
 	font-weight: 700;
-	color:#34bcaa;
+	color:#34bcaa !important;
 	margin-bottom: 5px;
 	z-index: 9;
 	letter-spacing: 2px;
