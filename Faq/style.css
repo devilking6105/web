@@ -5254,7 +5254,7 @@ img{
 	position: relative;
 	font-size: 23px;
 	line-height: 40px;
-	color: #ffffff;
+	color: #ffffff !important;
 	font-weight: 600;
 	word-spacing: 3px;
 }
